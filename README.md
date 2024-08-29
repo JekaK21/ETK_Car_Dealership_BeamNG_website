@@ -1,2 +1,2 @@
-# Site_ETK_BeamNG_fun_made
-Сайт про неіснуючу марку автомобіля ETK з гри BeamNG Drive.
+# ETK_Car_Dealership_BeamNG_website
+Багатосторінковий сайт автосалон про марку автомобіля ETK з гри BeamNG Drive.
