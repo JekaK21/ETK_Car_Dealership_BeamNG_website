@@ -3,4 +3,4 @@
 
 ## Behance case
 [Behance](https://www.behance.net/737e04b2)
-![ETK Web Design](/../Materials/Case/Прев'ю_біханс.jpg)
+![ETK Web Design](Materials/Case/Прев'ю_біханс.jpg)
