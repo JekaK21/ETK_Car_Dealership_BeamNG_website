@@ -1,7 +1,7 @@
 # ETK_Car_Dealership_BeamNG_website
-Багатосторінковий не комерційний сайт автосалон про марку автомобіля ETK з гри BeamNG Drive.
+Багатосторінковий не комерційний сайт автосалон про марку автомобіля ETK з гри BeamNG Drive. На даний момент є дизайн сайту. Розробка сайту в процесі.
 
-## Behance case
+## Behance design case
 [Behance](https://www.behance.net/737e04b2)
 
 ![ETK Web Design](Materials/Case/Прев'ю_біханс.jpg)
@@ -15,4 +15,4 @@
 Мобільна версія дизайну
 ![Mobile](Materials/Case/Apple_iPad_Pro_13_Silver-Portrait.png)
 
-### Дізнатись більше про цей проєкт можна на сторінці Behance
+### Дізнатись більше про дизайн і дизайнера цього проєкту можна на сторінці Behance
