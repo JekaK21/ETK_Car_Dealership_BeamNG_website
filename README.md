@@ -13,6 +13,6 @@
 ![Tablet](Materials/Case/Apple_iPad_Pro_13_Silver-Portrait.png)
 
 Мобільна версія дизайну
-![Mobile](Materials/Case/Apple_iPad_Pro_13_Silver-Portrait.png)
+![Mobile](Materials/Case/Apple_iPhone_11_Pro_Max_Space_Grey.png)
 
 **Дізнатись більше про дизайн і дизайнера цього проєкту можна на сторінці Behance**
